@@ -4,6 +4,9 @@
 
 Rossy Resilience is a multi-modal AI system designed to support breast cancer diagnosis and staging by integrating four data sources: **mammograms, ultrasound, MRI scans, and biopsy data**. The system combines deep learning models for detection, classification, segmentation, and staging into a unified diagnostic support pipeline, aiming to assist **radiologists and oncologists** with faster, more consistent, evidence-aligned assessments while also providing **patients** with a more accessible way to understand their results and next steps.
 
+## Demo
+[Watch the Project Demo](https://drive.google.com/file/d/18U5GZTlL-gzOireypnN84Zq6EmwvtvbP/view?usp=sharing)
+
 ## Overview
 
 Breast cancer diagnosis typically requires synthesizing information across multiple imaging modalities and pathology data — a process that can be time-consuming and highly dependent on specialist expertise. Rossy Resilience addresses this by developing dedicated pipelines for each modality, with the goal of integrating them into a unified system that can:
